@@ -5,6 +5,9 @@
 		},
 		{
 			"path": "../DDAM_data/exercises"
+		},
+		{
+			"path": "../DDAM_data"
 		}
 	],
 	"settings": {}
